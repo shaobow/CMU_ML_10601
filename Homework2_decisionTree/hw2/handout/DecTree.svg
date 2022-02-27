@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="DecTree.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5554293"
+     inkscape:cx="602.72749"
+     inkscape:cy="544.5442"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="119.58114"
+       y="421.58779"
+       width="30.859648"
+       height="45.80729"
+       id="rect38826" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17085">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g17081"
+         id="use17087" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17096">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g17092"
+         id="use17098" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17107">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g17103"
+         id="use17109" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20403">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g20399"
+         id="use20405" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20403-6">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g20399-5"
+         id="use20405-8"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20403-6-7">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g20399-5-6"
+         id="use20405-8-1"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20403-6-5">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g20399-5-1"
+         id="use20405-8-5"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1652">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1648"
+         id="use1654" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1650"
+       clip-path="url(#clipPath1652)"
+       transform="matrix(1.7022768,0,0,1.7311436,-17.381349,-27.812842)"
+       inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:label="Clip"
+         id="g1648">
+        <g
+           id="g17083"
+           clip-path="url(#clipPath17085)"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:label="Clip"
+             id="g17081">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect31"
+               width="11.352607"
+               height="12.033019"
+               x="87.029884"
+               y="38.040192" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="88.793816"
+               y="47.628864"
+               id="text2646"><tspan
+                 sodipodi:role="line"
+                 id="tspan2644"
+                 style="stroke-width:0.264583"
+                 x="88.793816"
+                 y="47.628864">C</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g17094"
+           clip-path="url(#clipPath17096)"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:label="Clip"
+             id="g17092">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect31-0"
+               width="11.352607"
+               height="12.033019"
+               x="66.107201"
+               y="67.468025" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="67.871132"
+               y="77.056694"
+               id="text2646-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan2644-8"
+                 style="stroke-width:0.264583"
+                 x="67.871132"
+                 y="77.056694">A</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g17105"
+           clip-path="url(#clipPath17107)"
+           transform="translate(-5.9536139,-6.974218)"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:label="Clip"
+             id="g17103">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect31-6"
+               width="11.352607"
+               height="12.033019"
+               x="51.13813"
+               y="103.87008" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="52.902061"
+               y="113.45876"
+               id="text2646-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan2644-4"
+                 style="stroke-width:0.264583"
+                 x="52.902061"
+                 y="113.45876">B</tspan></text>
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 87.029884,50.07321 -9.570077,17.394814 v 0"
+           id="path10674"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g20401"
+           clip-path="url(#clipPath20403)"
+           transform="translate(4.1675257,-1.4458763)"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:label="Clip"
+             id="g20399">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="101.04124"
+               y="77.907219"
+               id="text15610"><tspan
+                 sodipodi:role="line"
+                 id="tspan15608"
+                 style="font-size:6.35px;stroke-width:0.264583"
+                 x="101.04124"
+                 y="77.907219">Y=0</tspan></text>
+            <ellipse
+               style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path20314"
+               cx="107.67525"
+               cy="75.525772"
+               rx="10.036083"
+               ry="5.4432993" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 98.382491,50.07321 110.56701,68.721649"
+           id="path20459"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g20401-7"
+           clip-path="url(#clipPath20403-6)"
+           transform="translate(-16.882735,27.939435)"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:label="Clip"
+             id="g20399-5">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="101.04124"
+               y="77.907219"
+               id="text15610-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan15608-0"
+                 style="font-size:6.35px;stroke-width:0.264583"
+                 x="101.04124"
+                 y="77.907219">Y=1</tspan></text>
+            <ellipse
+               style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path20314-8"
+               cx="107.67525"
+               cy="75.525772"
+               rx="10.036083"
+               ry="5.4432993" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 77.459808,79.501045 12.184519,18.64844"
+           id="path20459-3"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 66.107201,79.501045 -9.570077,17.394816 v 0"
+           id="path10674-7"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 45.184516,108.92888 -9.570077,17.39482 v 0"
+           id="path10674-7-5"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 56.537124,108.92888 12.184519,18.64844"
+           id="path20459-3-6"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g20401-7-7"
+           clip-path="url(#clipPath20403-6-7)"
+           transform="translate(-72.889165,56.261599)"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:label="Clip"
+             id="g20399-5-6">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="101.04124"
+               y="77.907219"
+               id="text15610-7-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan15608-0-6"
+                 style="font-size:6.35px;stroke-width:0.264583"
+                 x="101.04124"
+                 y="77.907219">Y=0</tspan></text>
+            <ellipse
+               style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path20314-8-1"
+               cx="107.67525"
+               cy="75.525772"
+               rx="10.036083"
+               ry="5.4432993" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="108.44071"
+             y="58.430405"
+             id="text30166"><tspan
+               sodipodi:role="line"
+               id="tspan30164"
+               style="stroke-width:0.264583"
+               x="108.44071"
+               y="58.430405">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="110.2268"
+             y="56.559277"
+             id="text34454"><tspan
+               sodipodi:role="line"
+               id="tspan34452"
+               style="stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+               x="110.2268"
+               y="56.559277">1</tspan></text>
+          <g
+             inkscape:label="Clip"
+             id="g20399-5-6-1"
+             transform="translate(-13.438144,-20.242268)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="101.04124"
+               y="77.907219"
+               id="text15610-7-9-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan15608-0-6-78"
+                 style="font-size:6.35px;stroke-width:0.264583"
+                 x="101.04124"
+                 y="77.907219">Y=0</tspan></text>
+            <ellipse
+               style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path20314-8-1-2"
+               cx="107.67525"
+               cy="75.525772"
+               rx="10.036083"
+               ry="5.4432993" />
+          </g>
+        </g>
+        <g
+           id="g20401-7-9"
+           clip-path="url(#clipPath20403-6-5)"
+           transform="translate(-35.338907,57.112114)"
+           inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             inkscape:label="Clip"
+             id="g20399-5-1">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="101.04124"
+               y="77.907219"
+               id="text15610-7-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan15608-0-7"
+                 style="font-size:6.35px;stroke-width:0.264583"
+                 x="101.04124"
+                 y="77.907219">Y=1</tspan></text>
+            <ellipse
+               style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path20314-8-10"
+               cx="107.67525"
+               cy="75.525772"
+               rx="10.036083"
+               ry="5.4432993" />
+          </g>
+        </g>
+        <g
+           inkscape:label="Clip"
+           id="g20399-0"
+           transform="translate(30.78867,94.067011)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="45.927834"
+             y="-34.701027"
+             id="text15610-1"
+             inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"><tspan
+               sodipodi:role="line"
+               id="tspan15608-4"
+               style="font-size:6.35px;stroke-width:0.264583"
+               x="45.927834"
+               y="-34.701027">0</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="24.004181"
+             y="-4.6673918"
+             id="text15610-1-8"
+             inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"><tspan
+               sodipodi:role="line"
+               id="tspan15608-4-9"
+               style="font-size:6.35px;stroke-width:0.264583"
+               x="24.004181"
+               y="-4.6673918">0</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="74.524796"
+             y="-34.435432"
+             id="text15610-1-6"
+             inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"><tspan
+               sodipodi:role="line"
+               id="tspan15608-4-0"
+               style="font-size:6.35px;stroke-width:0.264583"
+               x="74.524796"
+               y="-34.435432">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="53.171997"
+             y="-4.6580896"
+             id="text15610-1-6-6"
+             inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"><tspan
+               sodipodi:role="line"
+               id="tspan15608-4-0-8"
+               style="font-size:6.35px;stroke-width:0.264583"
+               x="53.171997"
+               y="-4.6580896">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="3.3317897"
+             y="25.960466"
+             id="text15610-1-6-8"
+             inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"><tspan
+               sodipodi:role="line"
+               id="tspan15608-4-0-0"
+               style="font-size:6.35px;stroke-width:0.264583"
+               x="3.3317897"
+               y="25.960466">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="33.610142"
+             y="25.960466"
+             id="text15610-1-6-5"
+             inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"><tspan
+               sodipodi:role="line"
+               id="tspan15608-4-0-1"
+               style="font-size:6.35px;stroke-width:0.264583"
+               x="33.610142"
+               y="25.960466">2</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130.7676,58.871077 114.47668,88.983996"
+       id="path1689"
+       inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 95.151404,109.81488 78.860485,139.92781"
+       id="path1691"
+       inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 59.535205,160.75869 43.244283,190.87162"
+       id="path1693"
+       inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 170.8343,91.154199 150.09288,58.871077"
+       id="path1695"
+       inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.47668,109.81488 20.74143,32.28313"
+       id="path1697"
+       inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 78.860485,160.75869 20.741423,32.28313"
+       id="path1699"
+       inkscape:export-filename="C:\Users\Brad's PC\iCloudDrive\F21-10601\Assignments\Homework2_decisionTree\hw2\handout\DecTree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

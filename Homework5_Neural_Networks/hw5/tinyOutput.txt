@@ -1,0 +1,79 @@
+INFO:Output for tiny dataset:Epoch 0
+INFO:Output for tiny dataset:	Adagrad with respect to sample 0
+INFO:Output for tiny dataset:		Begin forward pass
+INFO:Output for tiny dataset:			Value of a (before sigmoid):
+[[ 0.  0.  0.  0.]]
+INFO:Output for tiny dataset:			Value of z (after sigmoid):
+[[ 1.   0.5  0.5  0.5  0.5]]
+INFO:Output for tiny dataset:			Value of b (before softmax):
+[[ 0.  0.  0.  0.]]
+INFO:Output for tiny dataset:			Value of y_hat (after softmax):
+[[ 0.25  0.25  0.25  0.25]]
+INFO:Output for tiny dataset:			Cross entropy: 1.38629436112
+INFO:Output for tiny dataset:		Begin backward pass
+INFO:Output for tiny dataset:			d(loss)/d(b):
+[[ 0.25  0.25 -0.75  0.25]]
+INFO:Output for tiny dataset:			d(loss)/d(beta):
+[[ 0.25   0.125  0.125  0.125  0.125]
+ [ 0.25   0.125  0.125  0.125  0.125]
+ [-0.75  -0.375 -0.375 -0.375 -0.375]
+ [ 0.25   0.125  0.125  0.125  0.125]]
+INFO:Output for tiny dataset:			d(loss)/d(z):
+[[ 0.  0.  0.  0.]]
+INFO:Output for tiny dataset:			d(loss)/d(a):
+[[ 0.  0.  0.  0.]]
+INFO:Output for tiny dataset:			d(loss)/d(alpha):
+[[ 0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.]]
+INFO:Output for tiny dataset:		Update weights
+INFO:Output for tiny dataset:			New alpha:
+[[ 0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.]]
+INFO:Output for tiny dataset:			New beta:
+[[-0.099992   -0.09996802 -0.09996802 -0.09996802 -0.09996802]
+ [-0.099992   -0.09996802 -0.09996802 -0.09996802 -0.09996802]
+ [ 0.09999911  0.09999644  0.09999644  0.09999644  0.09999644]
+ [-0.099992   -0.09996802 -0.09996802 -0.09996802 -0.09996802]]
+INFO:Output for tiny dataset:	Adagrad with respect to sample 1
+INFO:Output for tiny dataset:		Begin forward pass
+INFO:Output for tiny dataset:			Value of a (before sigmoid):
+[[ 0.  0.  0.  0.]]
+INFO:Output for tiny dataset:			Value of z (after sigmoid):
+[[ 1.   0.5  0.5  0.5  0.5]]
+INFO:Output for tiny dataset:			Value of b (before softmax):
+[[-0.29992803 -0.29992803  0.299992   -0.29992803]]
+INFO:Output for tiny dataset:			Value of y_hat (after softmax):
+[[ 0.20738399  0.20738399  0.37784804  0.20738399]]
+INFO:Output for tiny dataset:			Cross entropy: 1.57318320013
+INFO:Output for tiny dataset:		Begin backward pass
+INFO:Output for tiny dataset:			d(loss)/d(b):
+[[ 0.20738399  0.20738399  0.37784804 -0.79261601]]
+INFO:Output for tiny dataset:			d(loss)/d(beta):
+[[ 0.20738399  0.10369199  0.10369199  0.10369199  0.10369199]
+ [ 0.20738399  0.10369199  0.10369199  0.10369199  0.10369199]
+ [ 0.37784804  0.18892402  0.18892402  0.18892402  0.18892402]
+ [-0.79261601 -0.39630801 -0.39630801 -0.39630801 -0.39630801]]
+INFO:Output for tiny dataset:			d(loss)/d(z):
+[[ 0.07555618  0.07555618  0.07555618  0.07555618]]
+INFO:Output for tiny dataset:			d(loss)/d(a):
+[[ 0.01888904  0.01888904  0.01888904  0.01888904]]
+INFO:Output for tiny dataset:			d(loss)/d(alpha):
+[[ 0.01888904  0.          0.          0.          0.01888904  0.        ]
+ [ 0.01888904  0.          0.          0.          0.01888904  0.        ]
+ [ 0.01888904  0.          0.          0.          0.01888904  0.        ]
+ [ 0.01888904  0.          0.          0.          0.01888904  0.        ]]
+INFO:Output for tiny dataset:		Update weights
+INFO:Output for tiny dataset:			New alpha:
+[[-0.09862742  0.          0.          0.         -0.09862742  0.        ]
+ [-0.09862742  0.          0.          0.         -0.09862742  0.        ]
+ [-0.09862742  0.          0.          0.         -0.09862742  0.        ]
+ [-0.09862742  0.          0.          0.         -0.09862742  0.        ]]
+INFO:Output for tiny dataset:			New beta:
+[[-0.16383477 -0.16380171 -0.16380171 -0.16380171 -0.16380171]
+ [-0.16383477 -0.16380171 -0.16380171 -0.16380171 -0.16380171]
+ [ 0.05500697  0.05500526  0.05500526  0.05500526  0.05500526]
+ [-0.00462407 -0.00460216 -0.00460216 -0.00460216 -0.00460216]]

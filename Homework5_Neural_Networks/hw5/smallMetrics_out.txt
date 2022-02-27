@@ -1,0 +1,4 @@
+epoch=1 corssentropy(train): 1.3799028626793586
+epoch=1 corssentropy(validation): 1.4034006455221877
+error(train): 0.728
+error(validation): 0.74
